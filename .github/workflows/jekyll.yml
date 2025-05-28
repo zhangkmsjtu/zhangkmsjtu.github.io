@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: '0 0 * * *' # UTC时间每天0点
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 env:
   TZ: Asia/Shanghai
