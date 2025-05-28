@@ -70,6 +70,10 @@ jobs:
       - name: Build Jekyll Site
         run: |
           bundle exec jekyll build --trace
+
+      - name: List files after build
+        run: ls -R .  # 列出所有文件以检查构建结果
+
         env:
           JEKYLL_ENV: ${{ env.JEKYLL_ENV }}
 
