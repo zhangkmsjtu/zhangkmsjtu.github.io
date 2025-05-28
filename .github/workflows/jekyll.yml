@@ -92,7 +92,7 @@ jobs:
           done
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@latest
         with:
           name: site-${{ github.sha }}
           path: ./_site
