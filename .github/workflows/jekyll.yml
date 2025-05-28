@@ -1,0 +1,40 @@
+name: Scheduled Post
+on:
+  schedule:
+    - cron: '0 0 * * *' # UTC时间每天0点
+  push:
+    branches: [ main ]
+
+env:
+  TZ: Asia/Shanghai
+  JEKYLL_ENV: production
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
+          bundler-cache: true
+
+      - uses: actions/cache@v3
+        with:
+          path: |
+            vendor/bundle
+            .jekyll-cache
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+
+      - uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./_site
