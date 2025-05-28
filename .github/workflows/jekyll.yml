@@ -10,8 +10,11 @@ env:
   JEKYLL_ENV: production
 
 jobs:
+  build:
+    runs-on: ubuntu-latest
   deploy:
     runs-on: ubuntu-latest
+    needs: build  # 确保build作业完成后再部署
     steps:
       - uses: actions/checkout@v4
 
@@ -38,3 +41,9 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./_site
+
+      - name: Cache Ruby Gems
+        uses: actions/cache@v2
+        with:
+          path: vendor/ruby
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
