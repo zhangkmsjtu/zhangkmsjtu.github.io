@@ -29,7 +29,7 @@ collection: portfolio
 |:-------:|:-----------:|:-------------:|
 | <img src="/images/students/俞聪.jpg" alt="俞聪" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/明士凯.jpg" alt="明士凯" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/石鹏.jpg" alt="石鹏" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
 | <img src="/images/students/俞聪_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/明士凯_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/石鹏_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
-| 2025毕业去向：上海**** | 2025毕业去向：深圳****技术有限公司 | 2025毕业去向：上海**制造有限公司 |
+| 2025毕业去向：中石化***公司 | 2025毕业去向：深圳****技术有限公司 | 2025毕业去向：上海**制造有限公司 |
 
 
 
