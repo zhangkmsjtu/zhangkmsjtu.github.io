@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 （请在电脑浏览器中打开以浏览全部）  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iu4QsRcmD2Y?si=J_eFWuByqZKUPAwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/iu4QsRcmD2Y?si=J_eFWuByqZKUPAwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<video width="560" height="315" controls>
+  <source src="/video/parabolic_antenna.mp4" type="video/mp4">
+  您的浏览器不支持视频标签。
+</video>
+
 
 &nbsp;
 # Research Interests （招生方向）:
