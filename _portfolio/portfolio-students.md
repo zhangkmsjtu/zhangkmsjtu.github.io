@@ -1,7 +1,7 @@
 ---
 title: "Portfolio-students"
-excerpt: "科研：难走的路才有好风景！ <br/><img src='/images/2493466.jpg' width='50%'>  杨振宁精彩的演讲 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Z90fkUa7fbw&t=2790s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-"
+excerpt: "杨振宁精彩的演讲 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Z90fkUa7fbw&t=2790s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> "
+<!--excerpt: "科研：难走的路才有好风景！ <br/><img src='/images/2493466.jpg' width='50%'> "-->
 collection: portfolio
 ---
 
