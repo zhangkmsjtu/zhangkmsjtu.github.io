@@ -30,7 +30,7 @@ redirect_from:
 	- Finite element method [<font color=SlateGray>有限单元法</font>]
 
 ***
-杨振宁精彩的演讲 
+杨振宁的演讲 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Z90fkUa7fbw&t=2790s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 > 科学需要想象 想象来自阅读
