@@ -31,7 +31,31 @@ redirect_from:
 
 ***
 杨振宁的演讲 
-<iframe width="560" height="315" src="https://www.bilibili.com/video/BV1mugJz5Efi/?spm_id_from=333.337.search-card.all.click&vd_source=36daf9334c605744c2e2652377e03afc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 比例 */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+</style>
+
+<div class="video-container">
+  <iframe src="https://www.bilibili.com/video/BV1mugJz5Efi/?spm_id_from=333.337.search-card.all.click&vd_source=36daf9334c605744c2e2652377e03afc" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 > 科学需要想象 想象来自阅读
 
