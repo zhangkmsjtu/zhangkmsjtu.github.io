@@ -4,6 +4,9 @@ excerpt: "科研：难走的路才有好风景！ <br/><img src='/images/2493466
 collection: portfolio
 ---
 
+<p style="text-decoration:underline;"><a href="/birthplacemap.html">See a map of all the places we've given a talk!</a></p>
+
+
 # 2024级
 
 |姚佳俊| 叶镇| 慕成林| 胡浩| 
