@@ -4,7 +4,7 @@ excerpt: "科研：难走的路才有好风景！ <br/><img src='/images/2493466
 collection: portfolio
 ---
 
-<p style="text-decoration:underline;"><a href="/_portfolio/birthplacemap.html">See a map of all graduate students' places of origin!（查看学生出生地地图）</a></p>
+<p style="text-decoration:underline;"><a href="/birthplacemap/birthplacemap.html">查看学生出生地地图</a></p>
 
 
 # 2024级
