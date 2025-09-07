@@ -1,78 +1,78 @@
 [
   {
-    "name": "²ÌÓêÉú",
-    "birthplace": "½­ËÕÊ¡Á°Ë®ÏØ",
-    "coordinates": [ 119.28, 33.78 ]
+    "name": "è”¡é›¨ç”Ÿ",
+    "birthplace": "æ±Ÿè‹çœæ¶Ÿæ°´å¿",
+    "coordinates": [ 33.78, 119.28  ]
   },
   {
-    "name": "²ÜÓî",
-    "birthplace": "°²»ÕÊ¡°²ÇìÊĞ",
-    "coordinates": [ 117.03, 30.52 ]
+    "name": "æ›¹å®‡",
+    "birthplace": "å®‰å¾½çœå®‰åº†å¸‚",
+    "coordinates": [ 30.52, 117.03]
   },
   {
-    "name": "ÓÚµÛÎ°",
-    "birthplace": "°²»ÕÊ¡¸·ÑôÊĞ",
-    "coordinates": [ 115.81, 32.89 ]
+    "name": "äºå¸ä¼Ÿ",
+    "birthplace": "å®‰å¾½çœé˜œé˜³å¸‚",
+    "coordinates": [ 32.89, 115.81 ]
   },
   {
-    "name": "Óá´Ï",
-    "birthplace": "½­Î÷Ê¡ÉÏÈÄÊĞ",
-    "coordinates": [ 117.97, 28.44 ]
+    "name": "ä¿èª",
+    "birthplace": "æ±Ÿè¥¿çœä¸Šé¥¶å¸‚",
+    "coordinates": [ 28.44, 117.97 ]
   },
   {
-    "name": "Ã÷Ê¿¿­",
-    "birthplace": "°²»ÕÊ¡¸·ÑôÊĞ",
-    "coordinates": [ 115.81, 32.89 ]
+    "name": "æ˜å£«å‡¯",
+    "birthplace": "å®‰å¾½çœé˜œé˜³å¸‚",
+    "coordinates": [ 32.89, 115.81 ]
   },
   {
-    "name": "Ê¯Åô",
-    "birthplace": "ºşÄÏÊ¡³£µÂÊĞ",
-    "coordinates": [ 111.69, 29.05 ]
+    "name": "çŸ³é¹",
+    "birthplace": "æ¹–å—çœå¸¸å¾·å¸‚",
+    "coordinates": [ 29.05, 111.69 ]
   },
   {
-    "name": "½ªØ¹ÎÄ",
-    "birthplace": "ÉÏº£ÊĞ½ğÉ½Çø",
-    "coordinates": [ 121.16, 30.89 ]
+    "name": "å§œæ¯“æ–‡",
+    "birthplace": "ä¸Šæµ·å¸‚é‡‘å±±åŒº",
+    "coordinates": [ 30.89, 121.16 ]
   },
   {
-    "name": "³Â´ºº£",
-    "birthplace": "¹ã¶«Ê¡Õ¿½­ÊĞ",
-    "coordinates": [ 110.35, 21.27 ]
+    "name": "é™ˆæ˜¥æµ·",
+    "birthplace": "å¹¿ä¸œçœæ¹›æ±Ÿå¸‚",
+    "coordinates": [ 21.27, 110.35 ]
   },
   {
-    "name": "Åí¿¡Ïè",
-    "birthplace": "É½¶«Ê¡Æ½ÒØÏØ",
-    "coordinates": [ 117.63, 35.50 ]
+    "name": "å½­ä¿Šç¿”",
+    "birthplace": "å±±ä¸œçœå¹³é‚‘å¿",
+    "coordinates": [ 35.50, 117.63 ]
   },
   {
-    "name": "Ò¦¼Ñ¿¡",
-    "birthplace": "ÉÏº£ÊĞ½ğÉ½Çø",
-    "coordinates": [ 121.16, 30.89 ]
+    "name": "å§šä½³ä¿Š",
+    "birthplace": "ä¸Šæµ·å¸‚é‡‘å±±åŒº",
+    "coordinates": [ 30.89, 121.16 ]
   },
   {
-    "name": "Ò¶Õò",
-    "birthplace": "ºÓÄÏÊ¡¹ÌÊ¼ÏØ",
-    "coordinates": [ 115.65, 32.17 ]
+    "name": "å¶é•‡",
+    "birthplace": "æ²³å—çœå›ºå§‹å¿",
+    "coordinates": [ 32.17, 115.65 ]
   },
   {
-    "name": "Ä½³ÉÁÖ",
-    "birthplace": "ºÓÄÏÊ¡½¹×÷ÊĞ",
-    "coordinates": [ 113.24, 35.21 ]
+    "name": "æ…•æˆæ—",
+    "birthplace": "æ²³å—çœç„¦ä½œå¸‚",
+    "coordinates": [ 35.21, 113.24 ]
   },
   {
-    "name": "ºúºÆ",
-    "birthplace": "°²»ÕÊ¡Í­ÁêÊĞ",
-    "coordinates": [ 117.81, 30.94 ]
+    "name": "èƒ¡æµ©",
+    "birthplace": "å®‰å¾½çœé“œé™µå¸‚",
+    "coordinates": [ 30.94, 117.81 ]
   },
   {
-    "name": "Áõ°Â",
-    "birthplace": "°²»ÕÊ¡ËŞÖİÊĞ",
-    "coordinates": [ 116.98, 33.63 ]
+    "name": "åˆ˜å¥¥",
+    "birthplace": "å®‰å¾½çœå®¿å·å¸‚",
+    "coordinates": [ 33.63, 116.98 ]
   },
   {
-    "name": "³ÂÊ«À¤",
-    "birthplace": "½­ËÕÊ¡Æô¶«ÊĞ",
-    "coordinates": [ 121.65, 31.84 ]
+    "name": "é™ˆè¯—å¤",
+    "birthplace": "æ±Ÿè‹çœå¯ä¸œå¸‚",
+    "coordinates": [ 31.84, 121.65 ]
   }
 
 ]
