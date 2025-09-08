@@ -72,3 +72,5 @@ collection: portfolio
 | 会议剪影 |  |
 |:-----------:|:----------:|
 | <img src="/images/students/第19届沪港力学.jpg" alt="第19届沪港力学合影" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |  |
+
+<p style="text-decoration:underline;"><a href="/birthplacemap/birthplacemap.html">查看毕业生工作地地图</a></p>
