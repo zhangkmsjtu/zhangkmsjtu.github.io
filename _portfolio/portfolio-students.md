@@ -5,8 +5,18 @@ collection: portfolio
 ---
 
 <p style="text-decoration:underline;"><a href="/birthplacemap/birthplacemap.html">查看学生出生地地图</a></p>
+<iframe src="/birthplacemap/birthplacemap.html" 
+        width="100%" 
+        height="500" 
+        frameborder="0">
+</iframe>
 
 <p style="text-decoration:underline;"><a href="/workplacemap/workplacemap.html">查看毕业生工作去向地图</a></p>
+<iframe src="/workplacemap/workplacemap.html" 
+        width="100%" 
+        height="500" 
+        frameborder="0">
+</iframe>
 
 
 # 2024级
