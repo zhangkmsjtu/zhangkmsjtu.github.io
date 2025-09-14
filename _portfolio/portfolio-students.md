@@ -5,6 +5,18 @@ collection: portfolio
 ---
 
 <p style="text-decoration:underline;"><a href="/birthplacemap/birthplacemap.html">查看学生出生地地图</a></p>
+<iframe src="/birthplacemap/birthplacemap.html" 
+        width="100%" 
+        height="500" 
+        frameborder="0">
+</iframe>
+
+<p style="text-decoration:underline;"><a href="/workplacemap/workplacemap.html">查看毕业生工作去向地图</a></p>
+<iframe src="/workplacemap/workplacemap.html" 
+        width="100%" 
+        height="500" 
+        frameborder="0">
+</iframe>
 
 # 2025级
 
@@ -80,3 +92,4 @@ collection: portfolio
 | 会议剪影 |  |
 |:-----------:|:----------:|
 | <img src="/images/students/第19届沪港力学.jpg" alt="第19届沪港力学合影" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |  |
+
