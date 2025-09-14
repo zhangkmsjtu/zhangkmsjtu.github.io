@@ -6,6 +6,14 @@ collection: portfolio
 
 <p style="text-decoration:underline;"><a href="/birthplacemap/birthplacemap.html">查看学生出生地地图</a></p>
 
+# 2025级
+
+| 陈诗坤 | 刘奥 |
+|:---------:|:---------:|
+| <img src="/images/students/陈诗坤.jpg" alt="陈诗坤" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/刘奥.jpg" alt="刘奥" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/陈诗坤_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/刘奥_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| 202*毕业去向：待定 | 202*毕业去向：待定 |
+
 
 # 2024级
 
