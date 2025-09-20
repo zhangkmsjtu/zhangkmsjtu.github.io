@@ -23,7 +23,7 @@ collection: portfolio
 | 陈诗坤 | 刘奥 |
 |:---------:|:---------:|
 | <img src="/images/students/陈诗坤.jpg" alt="陈诗坤" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/刘奥.jpg" alt="刘奥" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/陈诗坤_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/刘奥_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/陈诗坤_科研.png" alt="科研成果" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/刘奥_科研.png" alt="科研成果" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 | 202*毕业去向： | 202*毕业去向： |
 
 
@@ -32,7 +32,7 @@ collection: portfolio
 |姚佳俊| 叶镇| 慕成林| 胡浩| 
 |:-----------:|:----------:|:----------:|:----------:|
 | <img src="/images/students/姚佳俊.jpg" alt="姚佳俊" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/叶镇.jpg" alt="叶镇" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/慕成林.png" alt="慕成林" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/胡浩.jpeg" alt="胡浩" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/姚佳俊_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/叶镇_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/慕成林_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/胡浩_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/姚佳俊_科研.png" alt="科研成果" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/叶镇_科研.png" alt="科研成果" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/慕成林_科研.png" alt="科研成果" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/胡浩_科研.png" alt="科研成果" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
 |202*毕业去向：  |202*毕业去向：  |202*毕业去向：  |202*毕业去向：  |
 
 
@@ -41,7 +41,7 @@ collection: portfolio
 | 陈春海 | 彭俊翔 |
 |:---------:|:---------:|
 | <img src="/images/students/陈春海.jpg" alt="陈春海" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔.jpg" alt="彭俊翔" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/陈春海_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/陈春海_科研.png" alt="科研成果" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔_科研.png" alt="科研成果" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 | 202*毕业去向： | 202*毕业去向： |
 
 
@@ -51,7 +51,7 @@ collection: portfolio
 | 俞聪 | 明士凯 | 石鹏 |
 |:-------:|:-----------:|:-------------:|
 | <img src="/images/students/俞聪.jpg" alt="俞聪" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/明士凯.jpg" alt="明士凯" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/石鹏.jpg" alt="石鹏" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/俞聪ky图片.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/明士凯ky图片.png" alt="科研" style="width: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/石鹏ky图片.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/俞聪ky图片.png" alt="科研成果" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/明士凯ky图片.png" alt="科研成果" style="width: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/石鹏ky图片.png" alt="科研成果" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
 | 2025毕业去向：中石化***机械有限公司 | 2025毕业去向：深圳****技术有限公司 | 2025毕业去向：上海**制造有限公司 |
 
 
@@ -61,7 +61,7 @@ collection: portfolio
 | 于帝伟 | 曹宇 |
 |:-----------:|:----------:|
 | <img src="/images/students/于帝伟.jpg" alt="于帝伟" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/曹宇.jpg" alt="曹宇" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/微信图片_于帝伟.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/微信图片_曹宇.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/微信图片_于帝伟.png" alt="科研成果" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/微信图片_曹宇.png" alt="科研成果" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 | 2024毕业去向：上海**微电子有限公司 | 2024毕业去向：南京****科技有限公司 |
 
 
@@ -69,7 +69,7 @@ collection: portfolio
 
 | 蔡雨生 |
 |:---------:|
-| <img src="/images/students/蔡雨生.jpg" alt="蔡雨生" style="width: 400px; height: auto; object-fit: cover; object-position: center;" /> <img src="/images/students/epsilon_yy1.png" alt="科研" style="width: 400px; height: auto; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/蔡雨生.jpg" alt="蔡雨生" style="width: 400px; height: auto; object-fit: cover; object-position: center;" /> <img src="/images/students/epsilon_yy1.png" alt="科研成果" style="width: 400px; height: auto; object-fit: cover; object-position: center;" /> |
 | 2023毕业去向：上海****能源有限公司 |
 
 # 合影
