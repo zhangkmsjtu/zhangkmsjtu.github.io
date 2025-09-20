@@ -24,7 +24,7 @@ collection: portfolio
 |:---------:|:---------:|
 | <img src="/images/students/陈诗坤.jpg" alt="陈诗坤" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/刘奥.jpg" alt="刘奥" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 | <img src="/images/students/陈诗坤_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/刘奥_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| 202*毕业去向：待定 | 202*毕业去向：待定 |
+| 202*毕业去向： | 202*毕业去向： |
 
 
 # 2024级
@@ -33,7 +33,7 @@ collection: portfolio
 |:-----------:|:----------:|:----------:|:----------:|
 | <img src="/images/students/姚佳俊.jpg" alt="姚佳俊" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/叶镇.jpg" alt="叶镇" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/慕成林.png" alt="慕成林" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/胡浩.jpeg" alt="胡浩" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
 | <img src="/images/students/姚佳俊_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/叶镇_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/慕成林_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/胡浩_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
-|202*毕业去向：待定  |202*毕业去向：待定  |202*毕业去向：待定  |202*毕业去向：待定  |
+|202*毕业去向：  |202*毕业去向：  |202*毕业去向：  |202*毕业去向：  |
 
 
 # 2023级
@@ -42,7 +42,7 @@ collection: portfolio
 |:---------:|:---------:|
 | <img src="/images/students/陈春海.jpg" alt="陈春海" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔.jpg" alt="彭俊翔" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 | <img src="/images/students/陈春海_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| 202*毕业去向：待定 | 202*毕业去向：待定 |
+| 202*毕业去向： | 202*毕业去向： |
 
 
 
