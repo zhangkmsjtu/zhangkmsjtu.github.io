@@ -15,7 +15,7 @@ redirect_from:
   您的浏览器不支持视频标签。
 </video>
 
-
+![图片](/images/students/ming20251004.jpeg){: width="560" .optimized-image }
 &nbsp;
 # Research Interests （招生方向）:
 
