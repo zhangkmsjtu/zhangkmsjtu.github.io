@@ -15,7 +15,10 @@ redirect_from:
   您的浏览器不支持视频标签。
 </video>
 
-![图片](/images/students/ming20251004.jpeg){: width="560" .optimized-image }
+<picture>
+    <source srcset="/images/students/ming20251004-small.jpeg" media="(max-width: 600px)">
+    <img src="/images/students/ming20251004.jpeg" alt="我的" width="560" />
+</picture>
 &nbsp;
 # Research Interests （招生方向）:
 
