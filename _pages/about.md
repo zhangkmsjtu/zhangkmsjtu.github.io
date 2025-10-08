@@ -16,8 +16,8 @@ redirect_from:
 </video>
 
 <picture>
-    <source srcset="/images/students/km_1.jpg" media="(max-width: 600px)">
-    <img src="/images/students/km_1.jpg" alt="我的" width="560" />
+    <source srcset="/images/students/km_2.jfif" media="(max-width: 600px)">
+    <img src="/images/students/km_2.jfif" alt="我的" width="560" />
 </picture>
 &nbsp;
 # Research Interests （招生方向）:
