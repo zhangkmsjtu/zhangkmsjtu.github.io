@@ -36,11 +36,11 @@ collection: portfolio
 |202*毕业去向：  |202*毕业去向：  |202*毕业去向：  |202*毕业去向：  |
 
 
-|袁喜勇|  
-|:-----------:|
-| <img src="/images/students/袁喜勇.jpg" alt="袁喜勇" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />|
-| <img src="/images/students/袁喜勇_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | 
-|202*毕业去向：  |
+|袁喜勇| | | |  
+|:-----------:|:-----------: |:-----------: |:-----------:|  
+| <img src="/images/students/袁喜勇.jpg" alt="袁喜勇" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| | | |  
+| <img src="/images/students/袁喜勇_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |  | | |  
+|202*毕业去向：  | | | |  
 
 
 # 2023级
