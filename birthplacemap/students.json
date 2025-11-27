@@ -2,12 +2,12 @@
   {
     "name": "蔡雨生",
     "birthplace": "江苏省涟水县",
-    "coordinates": [ 33.78, 119.28  ]
+    "coordinates": [ 33.78, 119.28 ]
   },
   {
     "name": "曹宇",
     "birthplace": "安徽省安庆市",
-    "coordinates": [ 30.52, 117.03]
+    "coordinates": [ 30.52, 117.03 ]
   },
   {
     "name": "于帝伟",
@@ -63,6 +63,11 @@
     "name": "胡浩",
     "birthplace": "安徽省铜陵市",
     "coordinates": [ 30.94, 117.81 ]
+  },
+  {
+    "name": "袁喜勇",
+    "birthplace": "湖南省郴州市",
+    "coordinates": [ 25.783, 113.019 ]
   },
   {
     "name": "刘奥",
