@@ -34,6 +34,8 @@ collection: portfolio
 | <img src="/images/students/姚佳俊.jpg" alt="姚佳俊" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/叶镇.jpg" alt="叶镇" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/慕成林.png" alt="慕成林" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/胡浩.jpeg" alt="胡浩" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
 | <img src="/images/students/姚佳俊_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/叶镇_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/慕成林_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/胡浩_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
 |202*毕业去向：  |202*毕业去向：  |202*毕业去向：  |202*毕业去向：  |
+
+
 |袁喜勇|  
 |:-----------:|
 | <img src="/images/students/袁喜勇.jpg" alt="袁喜勇" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />|
