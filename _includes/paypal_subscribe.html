@@ -7,7 +7,15 @@
       var container = document.querySelector(selector);
       if (!container || !window.paypal) return;
       window.paypal.Buttons({
-        style: { shape: 'rect', color: 'gold', layout: 'vertical', label: 'subscribe' },
+          style: {
+              layout: 'horizontal',
+              size: 'small',
+              label: 'pay',
+              color: 'gold',
+              shape: 'rect',
+              height: 35,
+              tagline: false
+          },
         createSubscription: function(data, actions) {
           return actions.subscription.create({ plan_id: 'P-0YE321311R9328900NGIRUJA' });
         },
