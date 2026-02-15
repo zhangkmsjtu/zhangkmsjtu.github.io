@@ -18,7 +18,6 @@ paypal_subscribe: true
 **Services**
 1. Technical Service Subscription
 <div id="paypal-button-container-P-0YE321311R9328900NGIRUJA" style="max-width:280px;margin:0;text-align:left;"></div>
-
 2. One-time Payment
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick" />
