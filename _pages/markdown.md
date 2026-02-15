@@ -1,12 +1,14 @@
 ---
+layout: single
 permalink: /markdown/
 title: "Contact"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
-paypal_subscribe:true
+paypal_subscribe: true
 ---
+
 
 * E-mail: zhangkeming@usst.edu.cn
 * Website: zhangkm.link
