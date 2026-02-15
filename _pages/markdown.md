@@ -16,5 +16,8 @@ paypal_subscribe: true
 ![](/images/yinglibo.gif)
 
 **Order**
+{% comment %}
 <div id="paypal-button-container-P-0YE321311R9328900NGIRUJA" style="max-width:280px;margin:0;"></div>
+{% endcomment %}
+<div id="paypal-button-container-P-0YE321311R9328900NGIRUJA"></div>
 
