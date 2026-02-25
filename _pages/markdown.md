@@ -18,17 +18,15 @@ paypal_subscribe: true
 
 ---
 
-## 💳 Services
+## 🤝 Sponsorship & Support (PayPal)
 
-### 1. Technical Service Subscription
+### Sponsor $1 (one-time)
 
-<div id="paypal-button-container-P-0YE321311R9328900NGIRUJA" style="max-width: 280px; margin: 0; text-align: left;"></div>
+<a href="https://paypal.me/zhangkm/1usd" target="_blank" rel="noopener noreferrer"
+   style="display:inline-block;padding:10px 16px;border-radius:10px;background:#0070ba;color:#fff;text-decoration:none;font-weight:600;">
+  Sponsor $1 via PayPal
+</a>
 
-### 2. One-time Payment
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" rel="noopener noreferrer">
-  <input type="hidden" name="cmd" value="_s-xclick">
-  <input type="hidden" name="hosted_button_id" value="43HSR6NKQZTGY">
-  <input type="hidden" name="currency_code" value="USD">
-  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" name="submit" title="Pay safely and easily with PayPal" alt="Buy Now">
-</form>
+<p style="margin:10px 0 0;color:#666;font-size:14px;">
+  Each sponsorship is fixed at <strong>USD 1</strong>. Thank you for your support.
+</p>
