@@ -49,7 +49,7 @@ collection: portfolio
 |:---------:|:---------:|
 | <img src="/images/students/陈春海.jpg" alt="陈春海" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔.jpg" alt="彭俊翔" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 | <img src="/images/students/陈春海_科研.png" alt="科研贡献" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔_科研.png" alt="科研贡献" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| 202*毕业去向： | 202*毕业去向： |
+| 2026毕业去向：***机器人智能（深圳）有限公司 | 2026毕业去向：南昌大学（读博） |
 
 
 
