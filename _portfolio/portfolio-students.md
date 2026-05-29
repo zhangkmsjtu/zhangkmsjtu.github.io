@@ -97,8 +97,7 @@ collection: portfolio
 
 | 2026毕业 |  |
 |:-----------:|:----------:|
-| <img src="/images/students/biyezhao_20260527105429_391_73.jpg" alt="202606毕业季合影1" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/biyezhao_20260527105429_391_73.jpg" alt="202606毕业季合影2" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/biyezhao_20260527140209_402_73.jpg" alt="2026毕业合影" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/biyezhao_20260527140209_402_73.jpg" alt="2026毕业" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/biyezhao_20260527105429_391_73.jpg" alt="202606毕业季合影1" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/biyezhao_20260527140209_402_73.jpg" alt="202606毕业季合影2" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 
 
 | 会议剪影 |  |
