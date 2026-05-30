@@ -12,7 +12,7 @@ paypal_subscribe: true
 ## 📬 Contact
 
 - **E-mail:** [zhangkeming@usst.edu.cn](mailto:zhangkeming@usst.edu.cn)
-- **Website:** [zhangkm.link](https://zhangkm.link)
+- **Website:** [zhangkmsjtu.github.io](https://zhangkmsjtu.github.io)
 
 ![](/images/yinglibo.gif)
 
