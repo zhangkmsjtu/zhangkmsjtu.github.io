@@ -23,7 +23,7 @@ collection: portfolio
 | 陈诗坤 | 刘奥 |
 |:---------:|:---------:|
 | <img src="/images/students/陈诗坤.jpg" alt="陈诗坤" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/刘奥.jpg" alt="刘奥" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/陈诗坤_科研.png" alt="科研贡献" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/刘奥_科研.png" alt="科研贡献" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/陈诗坤_科研.png" alt="陈诗坤 科研贡献" class="research-img" style="width: 400px; height: 400px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> | <img src="/images/students/刘奥_科研.png" alt="刘奥 科研贡献" class="research-img" style="width: 400px; height: 400px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> |
 | 202*毕业去向： | 202*毕业去向： |
 
 
@@ -32,14 +32,14 @@ collection: portfolio
 |姚佳俊| 叶镇| 慕成林| 胡浩| 
 |:-----------:|:----------:|:----------:|:----------:|
 | <img src="/images/students/姚佳俊.jpg" alt="姚佳俊" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/叶镇.jpg" alt="叶镇" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/慕成林.png" alt="慕成林" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| <img src="/images/students/胡浩.jpeg" alt="胡浩" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/姚佳俊_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/叶镇_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/慕成林_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/胡浩_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/姚佳俊_科研.png" alt="姚佳俊 科研贡献" class="research-img" style="width: 200px; height: 200px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> | <img src="/images/students/叶镇_科研.png" alt="叶镇 科研贡献" class="research-img" style="width: 200px; height: 200px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> | <img src="/images/students/慕成林_科研.png" alt="慕成林 科研贡献" class="research-img" style="width: 200px; height: 200px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> | <img src="/images/students/胡浩_科研.png" alt="胡浩 科研贡献" class="research-img" style="width: 200px; height: 200px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> |
 |202*毕业去向：  |202*毕业去向：  |202*毕业去向：  |202*毕业去向：  |
 
 
 |袁喜勇| | | |  
 |:-----------:|:-----------: |:-----------: |:-----------:|  
 | <img src="/images/students/袁喜勇.jpg" alt="袁喜勇" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" />| | | |  
-| <img src="/images/students/袁喜勇_科研.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |  | | |  
+| <img src="/images/students/袁喜勇_科研.png" alt="袁喜勇 科研贡献" class="research-img" style="width: 200px; height: 200px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> |  | | |  
 |202*毕业去向：  | | | |  
 
 
@@ -48,7 +48,7 @@ collection: portfolio
 | 陈春海 | 彭俊翔 |
 |:---------:|:---------:|
 | <img src="/images/students/陈春海.jpg" alt="陈春海" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔.jpg" alt="彭俊翔" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/陈春海_科研.png" alt="科研贡献" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔_科研.png" alt="科研贡献" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/陈春海_科研.png" alt="陈春海 科研贡献" class="research-img" style="width: 400px; height: 400px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> | <img src="/images/students/彭俊翔_科研.png" alt="彭俊翔 科研贡献" class="research-img" style="width: 400px; height: 400px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> |
 | 2026毕业去向：***机器人智能（深圳）有限公司 | 2026毕业去向：南昌大学（读博） |
 
 
@@ -58,7 +58,7 @@ collection: portfolio
 | 俞聪 | 明士凯 | 石鹏 |
 |:-------:|:-----------:|:-------------:|
 | <img src="/images/students/俞聪.jpg" alt="俞聪" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/明士凯.jpg" alt="明士凯" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/石鹏.jpg" alt="石鹏" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/俞聪ky图片.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/明士凯ky图片.png" alt="科研贡献" style="width: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/石鹏ky图片.png" alt="科研贡献" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/俞聪ky图片.png" alt="俞聪 科研贡献" class="research-img" style="width: 200px; height: 200px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> | <img src="/images/students/明士凯ky图片.png" alt="明士凯 科研贡献" class="research-img" style="width: 200px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> | <img src="/images/students/石鹏ky图片.png" alt="石鹏 科研贡献" class="research-img" style="width: 200px; height: 200px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> |
 | 2025毕业去向：中石化***机械有限公司 | 2025毕业去向：深圳****技术有限公司 | 2025毕业去向：上海**制造有限公司 |
 
 
@@ -68,7 +68,7 @@ collection: portfolio
 | 于帝伟 | 曹宇 |
 |:-----------:|:----------:|
 | <img src="/images/students/于帝伟.jpg" alt="于帝伟" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/曹宇.jpg" alt="曹宇" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/微信图片_于帝伟.png" alt="科研贡献" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/微信图片_曹宇.png" alt="科研贡献" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/微信图片_于帝伟.png" alt="于帝伟 科研贡献" class="research-img" style="width: 400px; height: 400px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> | <img src="/images/students/微信图片_曹宇.png" alt="曹宇 科研贡献" class="research-img" style="width: 400px; height: 400px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> |
 | 2024毕业去向：上海**微电子有限公司 | 2024毕业去向：南京****科技有限公司 |
 
 
@@ -76,8 +76,9 @@ collection: portfolio
 
 | 蔡雨生 |
 |:---------:|
-| <img src="/images/students/蔡雨生.jpg" alt="蔡雨生" style="width: 400px; height: auto; object-fit: cover; object-position: center;" /> <img src="/images/students/epsilon_yy1.png" alt="科研贡献" style="width: 400px; height: auto; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/蔡雨生.jpg" alt="蔡雨生" style="width: 400px; height: auto; object-fit: cover; object-position: center;" /> <img src="/images/students/epsilon_yy1.png" alt="蔡雨生 科研贡献" class="research-img" style="width: 400px; height: auto; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> |
 | 2023毕业去向：上海****能源有限公司 |
+
 
 # 合影
 
@@ -104,3 +105,39 @@ collection: portfolio
 |:-----------:|:----------:|
 | <img src="/images/students/第19届沪港力学.jpg" alt="第19届沪港力学合影" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |  |
 
+
+<!-- ===== 科研图点击放大功能 ===== -->
+<style>
+.modal {
+  display: none; position: fixed; inset: 0; z-index: 1000;
+  background: rgba(0,0,0,.85);
+  justify-content: center; align-items: center; flex-direction: column;
+  cursor: zoom-out;
+}
+.modal-content { max-width: 90vw; max-height: 85vh; object-fit: contain; border-radius: 4px; }
+.modal-close { position: absolute; top: 24px; right: 36px; color:#fff; font-size: 40px; cursor: pointer; line-height: 1; }
+.modal-caption { color:#fff; margin-top: 16px; font-size: 15px; }
+.research-img { cursor: zoom-in; }
+.research-img:hover { opacity: .85; }
+</style>
+
+<div id="imgModal" class="modal" onclick="closeModal()">
+  <span class="modal-close">&times;</span>
+  <img id="modalImg" class="modal-content" alt="" />
+  <div id="modalCaption" class="modal-caption"></div>
+</div>
+
+<script>
+function openModal(src, cap){
+  var m = document.getElementById('imgModal');
+  document.getElementById('modalImg').src = src;
+  document.getElementById('modalCaption').textContent = cap || '';
+  m.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+function closeModal(){
+  document.getElementById('imgModal').style.display = 'none';
+  document.body.style.overflow = '';
+}
+document.addEventListener('keydown', function(e){ if(e.key==='Escape') closeModal(); });
+</script>
