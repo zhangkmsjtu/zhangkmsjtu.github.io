@@ -106,38 +106,101 @@ collection: portfolio
 | <img src="/images/students/第19届沪港力学.jpg" alt="第19届沪港力学合影" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |  |
 
 
-<!-- ===== 科研图点击放大功能 ===== -->
 <style>
-.modal {
-  display: none; position: fixed; inset: 0; z-index: 1000;
-  background: rgba(0,0,0,.85);
-  justify-content: center; align-items: center; flex-direction: column;
-  cursor: zoom-out;
+.research-img {
+  cursor: zoom-in;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-.modal-content { max-width: 90vw; max-height: 85vh; object-fit: contain; border-radius: 4px; }
-.modal-close { position: absolute; top: 24px; right: 36px; color:#fff; font-size: 40px; cursor: pointer; line-height: 1; }
-.modal-caption { color:#fff; margin-top: 16px; font-size: 15px; }
-.research-img { cursor: zoom-in; }
-.research-img:hover { opacity: .85; }
+.research-img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+
+.modal-overlay {
+  display: none;
+  position: fixed !important;
+  z-index: 99999 !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  background: rgba(0, 0, 0, 0.85) !important;
+  justify-content: center !important;
+  align-items: center !important;
+  cursor: zoom-out;
+  animation: fadeIn 0.25s ease;
+}
+.modal-overlay.show {
+  display: flex !important;
+}
+
+.modal-overlay img.modal-content {
+  display: block !important;
+  margin: auto !important;
+  max-width: 90vw !important;
+  max-height: 85vh !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain !important;
+  border-radius: 8px;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+  animation: zoomIn 0.25s ease;
+}
+
+.modal-caption {
+  position: absolute;
+  bottom: 5%;
+  color: #fff !important;
+  font-size: 16px;
+  text-align: center;
+  width: 100%;
+}
+
+.modal-close {
+  position: absolute;
+  top: 20px;
+  right: 32px;
+  color: #fff !important;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  line-height: 1;
+  user-select: none;
+  z-index: 100000 !important;
+}
+.modal-close:hover { color: #bbb !important; }
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes zoomIn {
+  from { transform: scale(0.9); opacity: 0; }
+  to   { transform: scale(1);   opacity: 1; }
+}
 </style>
 
-<div id="imgModal" class="modal" onclick="closeModal()">
-  <span class="modal-close">&times;</span>
-  <img id="modalImg" class="modal-content" alt="" />
-  <div id="modalCaption" class="modal-caption"></div>
+<div id="imgModal" class="modal-overlay" onclick="closeModal()">
+  <span class="modal-close" onclick="closeModal()">&times;</span>
+  <img class="modal-content" id="modalImg" src="" alt="" />
+  <div class="modal-caption" id="modalCaption"></div>
 </div>
 
 <script>
-function openModal(src, cap){
-  var m = document.getElementById('imgModal');
-  document.getElementById('modalImg').src = src;
-  document.getElementById('modalCaption').textContent = cap || '';
-  m.style.display = 'flex';
-  document.body.style.overflow = 'hidden';
-}
-function closeModal(){
-  document.getElementById('imgModal').style.display = 'none';
-  document.body.style.overflow = '';
-}
-document.addEventListener('keydown', function(e){ if(e.key==='Escape') closeModal(); });
+  function openModal(src, alt) {
+    const modal   = document.getElementById('imgModal');
+    const img     = document.getElementById('modalImg');
+    const caption = document.getElementById('modalCaption');
+    img.src = src;
+    img.alt = alt;
+    caption.textContent = alt;
+    modal.classList.add('show');
+    document.body.style.overflow = 'hidden';
+  }
+  function closeModal() {
+    document.getElementById('imgModal').classList.remove('show');
+    document.body.style.overflow = '';
+  }
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeModal();
+  });
 </script>
