@@ -18,6 +18,14 @@ collection: portfolio
         frameborder="0">
 </iframe>
 
+# 2026级
+
+| 李昺昊 | 王传杰 |
+|:---------:|:---------:|
+| <img src="/images/students/李昺昊.jpg" alt="李昺昊" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/王传杰.jpg" alt="王传杰" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/李昺昊_科研.png" alt="李昺昊 科研贡献" class="research-img" style="width: 400px; height: 400px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> | <img src="/images/students/王传杰_科研.png" alt="王传杰 科研贡献" class="research-img" style="width: 400px; height: 400px; object-fit: contain; object-position: center;" onclick="openModal(this.src, this.alt)" /> |
+| 202*毕业去向： | 202*毕业去向： |
+
 # 2025级
 
 | 陈诗坤 | 刘奥 |
