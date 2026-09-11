@@ -78,6 +78,16 @@
     "name": "陈诗坤",
     "birthplace": "江苏省启东市",
     "coordinates": [ 31.84, 121.65 ]
+  },
+  {
+    "name": "李昺昊",
+    "birthplace": "河北省唐山市",
+    "coordinates": [ 39.63, 118.18 ]
+  },
+  {
+    "name": "王连杰",
+    "birthplace": "安徽省霍邱县",
+    "coordinates": [ 32.35, 116.28 ]
   }
 
 ]
